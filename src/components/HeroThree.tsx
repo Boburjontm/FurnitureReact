@@ -70,7 +70,7 @@ const products = [
   },
 ];
 
-const itemsPerPage = 4; // Har bir sahifada ko'rsatiladigan elementlar soni
+const itemsPerPage = 4; 
 
 const HeroThree: React.FC = () => {
   const [currentPage, setCurrentPage] = useState(1);

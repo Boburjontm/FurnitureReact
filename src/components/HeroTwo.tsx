@@ -17,7 +17,7 @@ const HeroTwo: React.FC = () => {
             <img 
               src={Dining}
               alt="Dining"
-              className="w-full h-90 object-cover" // Balandlikni 64 ga oshirdik
+              className="w-full h-90 object-cover" 
             />
             <h2 className="text-xl font-semibold text-center mt-4">Dining</h2>
           </div>
@@ -27,7 +27,7 @@ const HeroTwo: React.FC = () => {
             <img 
               src={Living}
               alt="Living"
-              className="w-full h-90 object-cover" // Balandlikni 64 ga oshirdik
+              className="w-full h-90 object-cover" 
             />
             <h2 className="text-xl font-semibold text-center mt-4">Living</h2>
           </div>
@@ -37,7 +37,7 @@ const HeroTwo: React.FC = () => {
             <img 
               src={Bedroom}
               alt="Bedroom"
-              className="w-full h-90 object-cover" // Balandlikni 64 ga oshirdik
+              className="w-full h-90 object-cover" 
             />
             <h2 className="text-xl font-semibold text-center mt-4">Bedroom</h2>
           </div>

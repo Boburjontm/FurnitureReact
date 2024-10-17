@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "/img/logo.svg"; // Ensure the correct logo path
+import logo from "/img/logo.svg"; // 
 
 // Ensure the correct icon paths
 import userIcon from "/img/human.svg";
 import heartIcon from "/img/heart.svg";
 import searchIcon from "/img/search.svg";
 import cartIcon from "/img/shop.svg";
-import hamburgerIcon from "/img/shop.svg"; // Hamburger icon for mobile
+import hamburgerIcon from "/img/shop.svg"; 
 
 const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

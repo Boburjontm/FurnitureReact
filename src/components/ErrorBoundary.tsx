@@ -23,6 +23,6 @@ class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundaryState> {
     }
     return this.props.children; // Access children prop correctly
   }
-}
+}c
 
 export default ErrorBoundary;

@@ -1,6 +1,6 @@
 const Loading: React.FC = () => (
   <div className="flex justify-center items-center h-screen">
-    <div className="spinner" /> {/* Optionally style this with CSS */}
+    <div className="spinner" />
     <p>Loading...</p>
   </div>
 );
